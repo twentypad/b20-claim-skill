@@ -174,8 +174,8 @@ Do not pass WETH. This escrow treats native ETH as `address(0)` and uses a raw c
 ## Example commands
 
 ```
-@bankrbot use twentypad-b20-claim to check my TwentyPad fees
-@bankrbot use twentypad-b20-claim to claim my ETH fees
-@bankrbot use twentypad-b20-claim to claim TFROG fees
-@bankrbot use twentypad-b20-claim to claim fees to 0xYOUR_ADDRESS
+@bankrbot use b20-claim-skill to check my TwentyPad fees
+@bankrbot use b20-claim-skill to claim my ETH fees
+@bankrbot use b20-claim-skill to claim TFROG fees
+@bankrbot use b20-claim-skill to claim fees to 0xYOUR_ADDRESS
 ```
